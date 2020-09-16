@@ -1,0 +1,8 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+        String M =" Android";
+        System.out.println(M);
+     }
+}
